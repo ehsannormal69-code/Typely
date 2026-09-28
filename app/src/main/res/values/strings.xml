@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Typely</string>
+    <string name="shared_prefs_name">typely_settings</string>
+    <string name="im_is_default">false</string>
+</resources>
